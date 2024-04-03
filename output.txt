@@ -1,0 +1,8 @@
+Text from console:
+123
+
+Text read from file using python built-in methods:
+afasf,asfadfgaf,123123,51351351,
+daggsg,
+sfgsfgsfg1,
+3141341341
